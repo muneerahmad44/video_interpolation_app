@@ -1,0 +1,8 @@
+fastapi
+torch
+torchvision
+opencv
+os
+sys
+base64
+
