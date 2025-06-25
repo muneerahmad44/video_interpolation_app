@@ -1,7 +1,7 @@
 fastapi
 torch
 torchvision
-opencv
+opencv-python
 os
 sys
 base64
